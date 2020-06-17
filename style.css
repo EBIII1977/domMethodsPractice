@@ -1,0 +1,22 @@
+button {
+    background-color: hsl(288, 88%, 54%);
+    color: black;
+    border-color: black;
+    font: black;
+    padding: 25px 40px;
+    font-size: 16pt;
+    margin: 4px 2px;
+}
+
+.image {
+    float: right;
+}
+
+A {
+    font-size: 24pt;
+}
+
+p {
+    font-size: 24pt;
+    color: blue;
+}
